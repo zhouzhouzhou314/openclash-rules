@@ -1,5 +1,5 @@
 rules:
-  # 学术科研
+  # Academic Resources
   - DOMAIN-SUFFIX,cnki.net,DIRECT
   - DOMAIN-SUFFIX,wanfangdata.com.cn,DIRECT
   - DOMAIN-SUFFIX,cqvip.com,DIRECT
@@ -15,16 +15,17 @@ rules:
   - DOMAIN-SUFFIX,nature.com,DIRECT
   - DOMAIN-SUFFIX,sciencemag.org,DIRECT
 
-  # 教育/科研平台
+  # Education/Research Platform
   - DOMAIN-SUFFIX,chsi.com.cn,DIRECT
   - DOMAIN-SUFFIX,chsi.cn,DIRECT
   - DOMAIN-SUFFIX,neea.edu.cn,DIRECT
   - DOMAIN-SUFFIX,edu.cn,DIRECT
   - DOMAIN-SUFFIX,nstl.gov.cn,DIRECT
 
-  # 常见支付/政务/国内云
+  # Common payment/government affairs/domestic cloud
   - DOMAIN-SUFFIX,alipay.com,DIRECT
   - DOMAIN-SUFFIX,weixin.qq.com,DIRECT
   - DOMAIN-SUFFIX,gov.cn,DIRECT
   - DOMAIN-SUFFIX,aliyun.com,DIRECT
+
   - DOMAIN-SUFFIX,huawei.com,DIRECT
