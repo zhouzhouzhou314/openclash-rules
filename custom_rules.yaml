@@ -1,0 +1,30 @@
+rules:
+  # 学术科研
+  - DOMAIN-SUFFIX,cnki.net,DIRECT
+  - DOMAIN-SUFFIX,wanfangdata.com.cn,DIRECT
+  - DOMAIN-SUFFIX,cqvip.com,DIRECT
+  - DOMAIN-SUFFIX,chaoxing.com,DIRECT
+  - DOMAIN-SUFFIX,onlinelibrary.wiley.com,DIRECT
+  - DOMAIN-SUFFIX,tandfonline.com,DIRECT
+  - DOMAIN-SUFFIX,sagepub.com,DIRECT
+  - DOMAIN-SUFFIX,pubs.acs.org,DIRECT
+  - DOMAIN-SUFFIX,rsc.org,DIRECT
+  - DOMAIN-SUFFIX,scitation.org,DIRECT
+  - DOMAIN-SUFFIX,ieee.org,DIRECT
+  - DOMAIN-SUFFIX,ieeexplore.ieee.org,DIRECT
+  - DOMAIN-SUFFIX,nature.com,DIRECT
+  - DOMAIN-SUFFIX,sciencemag.org,DIRECT
+
+  # 教育/科研平台
+  - DOMAIN-SUFFIX,chsi.com.cn,DIRECT
+  - DOMAIN-SUFFIX,chsi.cn,DIRECT
+  - DOMAIN-SUFFIX,neea.edu.cn,DIRECT
+  - DOMAIN-SUFFIX,edu.cn,DIRECT
+  - DOMAIN-SUFFIX,nstl.gov.cn,DIRECT
+
+  # 常见支付/政务/国内云
+  - DOMAIN-SUFFIX,alipay.com,DIRECT
+  - DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+  - DOMAIN-SUFFIX,gov.cn,DIRECT
+  - DOMAIN-SUFFIX,aliyun.com,DIRECT
+  - DOMAIN-SUFFIX,huawei.com,DIRECT
